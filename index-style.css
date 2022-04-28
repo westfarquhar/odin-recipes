@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Parisienne&display=swap');
+
+
+
+
+
+.title { 
+    
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Parisienne', cursive;
+
+
+}
+
+.body {
+
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    background-image: url("/home/justin/the_odin_project/odin-recipes/photos/white-bricks3.jpg");
+    background-repeat: repeat;
+}
+    
+   
+.images {
+
+border-width: 10px;
+padding: 10px 10px 10px 10px;
+border-radius: 25px;
+
+}
+
+:hover {
+
+  transform: scale(1.03);
+}
